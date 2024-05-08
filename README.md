@@ -26,6 +26,7 @@ Thanks for checking it out!
 | ----------------------------------------- | --------------------------------------------------- | -------------------------------------------- |
 | [Logz.io](https:/s/logz.io)               | Data visualization for logs                         |                                              |
 | [Qlik](https://www.qlik.co.il/)           | Data analytics & BI platform                        | Swedish company but they an office in Israel |
+| [Sisense](https://www.sisense.com/)       | Business intelligence, data visualization           |                                              |
 | [Visual Layer](https://visual-layer.com/) | Visual layer for data management                    |                                              |
 | [Redash](https://redash.io/)              | Data visualisation / BI (with a self-hostable/ CE!) |                                              |
 
@@ -113,3 +114,14 @@ Or, conversely, because they were a little too general. For example, there are l
 | Big Data Demystified                                         |                                                      | Meetup Group   | [Link](https://www.meetup.com/Big-Data-Demystified?recSource=group_search&recId=d3bf5f07-c4c4-4ebf-be28-76570624ccc0&searchId=154b98f0-a4c1-4f89-a3ab-9a91ccf420be) |
 | Data Management Israel                                       |                                                      | Meetup Group   | [Link](https://www.meetup.com/Data-Management-Israel?recSource=group_search&recId=d3bf5f07-c4c4-4ebf-be28-76570624ccc0&searchId=154b98f0-a4c1-4f89-a3ab-9a91ccf420be) |
 
+# Entities To Add
+
+There's a high chance I'll never get around to these, but they would make this resource much more complete. Feel free to open a PR to add them in!
+
+- Data "influencers" / commentators
+- Data conferences and events
+- Industry associations
+- Academic programs
+- Incubators
+- Open source projects (as many commercial projects also have community editions, I may just duplicate the list)
+- Section for AI and ML as it's such a big focus
