@@ -125,3 +125,13 @@ There's a high chance I'll never get around to these, but they would make this r
 - Incubators
 - Open source projects (as many commercial projects also have community editions, I may just duplicate the list)
 - Section for AI and ML as it's such a big focus
+
+## Author
+
+Daniel Rosehill  
+(public at danielrosehill dot com)
+
+## Licensing
+
+This repository is licensed under CC-BY-4.0 (Attribution 4.0 International) 
+[License](https://creativecommons.org/licenses/by/4.0/)
